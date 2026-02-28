@@ -22,7 +22,15 @@ We provide theoretical guarantees on the convergence and convergence rate of thi
 Empirical results demonstrate that, in experiments on multiple models (e.g., OPT, RoBERTa-large), LMAO achieves performance comparable to first-order methods.
 This presents a practical and scalable solution for fine-tuning large-scale models.
 
-## BibTex
+## BibTeX
 
 ```bibtex
+@inproceedings{
+    zhang2026three,
+    title={Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes},
+    author={Jia Zhang and Tianshuo Chen and Hualin Zhang and Yu Bai and Zhaogeng Liu and zhiqiang xu and Yi Chang and Bin Gu},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=373rsDQsq4}
+}
 ```
