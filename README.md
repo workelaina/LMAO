@@ -309,7 +309,7 @@ byobu
 RuntimeError: Default process group has not been initialized, please make sure to call init_process_group.
 ```
 
-Check `transformers`' version: `transformers==4.28.1`.
+Check the `transformers`' version: `transformers==4.28.1`.
 
 #### 2
 
@@ -317,9 +317,9 @@ Check `transformers`' version: `transformers==4.28.1`.
 RuntimeError: Numpy is not available
 ```
 
-Check Python version: `python==3.9.7`.
+Check the Python version: `python==3.9.7`.
 
-`python==3.9.x` is not enough.
+`python==3.9.x` is not sufficient.
 
 ## BibTeX
 
