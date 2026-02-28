@@ -320,3 +320,16 @@ RuntimeError: Numpy is not available
 Check Python version: `python==3.9.7`.
 
 `python==3.9.x` is not enough.
+
+## BibTeX
+
+```bibtex
+@inproceedings{
+    zhang2026three,
+    title={Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes},
+    author={Jia Zhang and Tianshuo Chen and Hualin Zhang and Yu Bai and Zhaogeng Liu and zhiqiang xu and Yi Chang and Bin Gu},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=373rsDQsq4}
+}
+```
