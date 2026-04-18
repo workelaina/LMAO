@@ -324,8 +324,7 @@ Check the Python version: `python==3.9.7`.
 ## BibTeX
 
 ```bibtex
-@inproceedings{
-    zhang2026three,
+@inproceedings{zhang2026three,
     title={Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes},
     author={Jia Zhang and Yu Bai and Hualin Zhang and Tianshuo Chen and Zhaogeng Liu and zhiqiang xu and Yi Chang and Bin Gu},
     booktitle={The Fourteenth International Conference on Learning Representations},
